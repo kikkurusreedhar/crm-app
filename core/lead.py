@@ -2,7 +2,6 @@
 # Lead feature functionalities.
 ##
 
-
 #Create Lead.
 def create_lead():
   print "Created Lead successfully."
@@ -15,6 +14,6 @@ def udpate_lead():
 def delete_lead():
   print "Deleted Lead successfully."
 
-# View  Lead.
-def view_lead():
-  print "Viewed the Lead successfully."
+# Access  Lead.
+def Access_lead():
+  print "Access the Lead."
